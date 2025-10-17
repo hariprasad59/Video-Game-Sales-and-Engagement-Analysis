@@ -3,8 +3,11 @@ Video Game Sales and Engagement Analysis - The goal of this project is to analyz
 We have two datasets games(engagement) and video games(sales) and we are combining both the datasets to analyse how game attributes relates to sales and engagement.
 
 Language - python 3
+
 Data processing - pandas , numpy
+
 Visualization - matplotlib, seaboarn and Power BI
+
 Environment - Jupyter Notebook
 
 # Approach
